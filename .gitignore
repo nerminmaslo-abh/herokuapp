@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Python egg metadata
+*.egg-info/
+
+# Test & coverage outputs
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+
+# Logs
+*.log
+
